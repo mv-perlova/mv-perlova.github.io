@@ -1,2 +1,3 @@
-# My projects
+# My study projects
+[Ya.Practicum Sample Website]( http://masha.perlovs.com/first-project/)
 [Ya.Practicum Sprint 1 Website](http://masha.perlovs.com/how-to-learn)
